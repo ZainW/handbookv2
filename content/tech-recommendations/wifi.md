@@ -3,7 +3,6 @@ title: WiFi Setup Recommendations
 description: Our family's recommended WiFi solutions for optimal home connectivity
 ---
 
-# WiFi Setup Recommendations
 
 This guide outlines our recommended WiFi solutions for home use, focusing on coverage, performance, and ease of use.
 
@@ -61,7 +60,7 @@ This guide outlines our recommended WiFi solutions for home use, focusing on cov
 - **Use case**: Great for Amazon ecosystem users who want simplicity and reliability
 
 ### Amazon eero Pro 7
-- **Starting Price**: $299+
+- **Starting Price**: $429+
 - **Specific Models**:
   - [eero Pro 7](https://www.amazon.ca/dp/B0C9JZQX8L) - Single unit
   - [eero Pro 7 2-pack](https://www.amazon.ca/dp/B0C9JZQX8L) - 2-pack system

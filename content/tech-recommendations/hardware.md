@@ -3,8 +3,6 @@ title: Hardware Recommendations
 description: Our family's recommended hardware choices with detailed explanations
 ---
 
-# Hardware Recommendations
-
 This guide outlines our recommended hardware choices, focusing on quality, value, and specific use cases. We've carefully selected these options based on our experience and research.
 
 > **Note**: All prices listed are in Canadian dollars (CAD).

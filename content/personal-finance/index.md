@@ -3,7 +3,6 @@ title: Personal Finance
 description: Our family's financial values, strategies, and practical tips
 ---
 
-# Personal Finance Guide
 
 This section outlines our family's approach to personal finance, including our values, strategies, and practical tips for managing money effectively.
 

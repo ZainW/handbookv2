@@ -3,8 +3,6 @@ title: Tech Recommendations
 description: Our family's curated technology choices and best practices
 ---
 
-# Tech Recommendations
-
 This section contains our family's technology recommendations, tools, and best practices. We maintain this guide to help us make informed decisions about the technology we use in our daily lives.
 
 ## Categories

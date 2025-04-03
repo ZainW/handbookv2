@@ -3,7 +3,6 @@ title: Zain's Personal Guide
 description: A personal guide covering food preferences, health tips, and daily routines
 ---
 
-# Zain's Personal Guide
 
 This section contains personal preferences, routines, and tips specifically curated for Zain. It serves as a quick reference for daily life decisions and personal development.
 
