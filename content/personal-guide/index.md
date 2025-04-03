@@ -9,29 +9,29 @@ This section contains personal preferences, routines, and tips specifically cura
 
 ## Food & Nutrition
 
-- [Favorite Recipes](/personal-guide/food/favorites)
-- [Dietary Preferences](/personal-guide/food/preferences)
-- [Meal Planning](/personal-guide/food/meal-planning)
-- [Restaurant Recommendations](/personal-guide/food/restaurants)
+- Favorite Recipes (Coming Soon)
+- Dietary Preferences (Coming Soon)
+- Meal Planning (Coming Soon)
+- Restaurant Recommendations (Coming Soon)
 
 ## Health & Wellness
 
-- [Exercise Routine](/personal-guide/health/exercise)
-- [Sleep Schedule](/personal-guide/health/sleep)
-- [Stress Management](/personal-guide/health/stress)
-- [Medical Information](/personal-guide/health/medical)
+- Exercise Routine (Coming Soon)
+- Sleep Schedule (Coming Soon)
+- Stress Management (Coming Soon)
+- Medical Information (Coming Soon)
 
 ## Daily Routines
 
-- [Morning Routine](/personal-guide/routines/morning)
-- [Work Schedule](/personal-guide/routines/work)
-- [Evening Routine](/personal-guide/routines/evening)
-- [Weekend Activities](/personal-guide/routines/weekend)
+- Morning Routine (Coming Soon)
+- Work Schedule (Coming Soon)
+- Evening Routine (Coming Soon)
+- Weekend Activities (Coming Soon)
 
 ## Personal Development
 
-- [Reading List](/personal-guide/development/reading)
-- [Learning Goals](/personal-guide/development/learning)
-- [Hobbies & Interests](/personal-guide/development/hobbies)
+- Reading List (Coming Soon)
+- Learning Goals (Coming Soon)
+- Hobbies & Interests (Coming Soon)
 
 Note: This guide is personal and should be updated regularly as preferences and routines evolve. 

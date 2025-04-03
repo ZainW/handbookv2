@@ -17,11 +17,11 @@ This section outlines our family's approach to personal finance, including our v
 
 ## Key Topics
 
-- [Budgeting Basics](/personal-finance/budgeting)
-- [Investment Strategy](/personal-finance/investments)
-- [Emergency Planning](/personal-finance/emergency-fund)
-- [Debt Management](/personal-finance/debt)
-- [Retirement Planning](/personal-finance/retirement)
+- Budgeting Basics (Coming Soon)
+- Investment Strategy (Coming Soon)
+- Emergency Planning (Coming Soon)
+- Debt Management (Coming Soon)
+- Retirement Planning (Coming Soon)
 
 ## Financial Goals
 

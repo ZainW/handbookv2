@@ -38,7 +38,7 @@ This guide outlines our recommended software and applications for various purpos
 - **Use case**: Perfect for families needing secure password management across multiple devices
 
 ### Multi-Factor Authentication (MFA)
-**ente or Google Authentator**
+**ente or Google Authenticator**
 - **Best for**: Adding an extra layer of security to online accounts
 - **Pros**:
   - Time-based one-time passwords (TOTP)
@@ -47,7 +47,7 @@ This guide outlines our recommended software and applications for various purpos
   - No reliance on SMS (more secure)
 - **Cons**:
   - Need to manually transfer codes when changing devices
-  - No cloud backup (for Google Authentator)
+  - No cloud backup (for Google Authenticator)
 - **Use case**: Essential for securing important accounts like email, banking, and cloud services
 - **Important Note**: Never use SMS 2FA if you have the option for proper MFA apps. SMS-based 2FA is vulnerable to SIM swapping attacks.
 

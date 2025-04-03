@@ -12,8 +12,8 @@ This section contains our family's technology recommendations, tools, and best p
 - [Laptop Recommendations](/tech-recommendations/hardware)
 - [WiFi Setup Recommendations](/tech-recommendations/wifi)
 - [Software & Apps](/tech-recommendations/software)
-- [Security Best Practices](/tech-recommendations/security)
-- [Digital Organization](/tech-recommendations/organization)
+- Security Best Practices (Coming Soon)
+- Digital Organization (Coming Soon)
 
 ## Why These Recommendations?
 
